@@ -22,22 +22,18 @@
  **`DEPLOYMENT METHODS`**
 ---
 
-<a href="https://black-panther-scanner-871df7205958.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
+<a href="https://black-panther-app-6d384e753bee.herokuapp.com/pair"><img src="https://img.shields.io/badge/LOGIN%20WITH-PAIR%20CODE-blue" alt="LOGIN WITH PAIR CODE" width="250"></a>
 
 
 <a href="https://qr-code-panther-19894751f2f0.herokuapp.com/qr"><img src="https://img.shields.io/badge/LOGIN%20WITH-QR%20CODE-black" alt="LOGIN WITH QR CODE" width="250"></a>
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/kingibrahimtech/Black-panther-md-x)[DEPLOY BLACK PANTHER MD X5: LATEST]
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
 
 <br>
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/ibrahimaitech/BLACK-PANTHER-MD/tree/main)[DEPLOY BLACK PANTHER MD V4: OLD]
-
-<br>
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://github.com/ibrahimaitech/BLACK-PANTHER-MD)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/kqO_n5?referralCode=AqkNn4)
 
 <br>
 
@@ -46,12 +42,12 @@
 <br>
 
 
-[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/IBRAHIM-MD/fork)
+[![FORK BLACK-PANTHER-MD](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-<p align="center"><a href="https://black-panther-scanner-871df7205958.herokuapp.com/">
+<p align="center"><a href="https://black-panther-app-6d384e753bee.herokuapp.com/">
  <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
 
 
@@ -78,12 +74,7 @@
 </div>
 ## 𝙏𝙝𝙖𝙣𝙠𝙨 𝙏𝙤 
 
-[`𝙎𝙐𝙃𝘼𝙄𝙇 𝙏𝙀𝘾𝙃`]
+[`GOD🙏`]
 
-[`𝙂𝙄𝙁𝙏𝙀𝘿 𝙏𝙀𝘾𝙃`]
-
-[`ASTA TECH`]
-
-[`𝘼𝙉𝘿 𝙏𝙃𝘼𝙉𝙆𝙎 𝙏𝙊 𝙈𝙀 𝙏𝙊𝙊😂`]
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
